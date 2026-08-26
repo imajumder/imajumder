@@ -27,7 +27,7 @@ imajumder@dev   ---------------------------------------------------------------
 
 <pre>
 <code>
-<span style="color: E3770B">OS</span><span style="color: 3D3A3A"> - </span><span style="color: 37A3A3">Windows 11, Android 17, IpadOS 26</span>
+<span style="color: #E3770B">OS</span><span style="color: #3D3A3A"> - </span><span style="color: #37A3A3">Windows 11, Android 17, IpadOS 26</span>
 </code>
 </pre>
 
