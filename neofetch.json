@@ -11,7 +11,8 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "Java, Python, JavaScript, TypeScript, C++" },
+        { "key": "Languages.Computer", "value": "Java, Python, JavaScript, TypeScript, C++" },
+        { "key": "Languages.Computer", "value": "English, Hindi, Bengali, German" },
         { "key": "Frameworks", "value": "NodeJS, ReactJS, VueJS, ExpressJS" },
         { "key": "Databases", "value": "MYSQL, MongoDB, AWS" },
         { "key": "IDE", "value": "WebStorm, VSCode" }
