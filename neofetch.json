@@ -6,7 +6,7 @@
         { "key": "Name", "value": "Ishan Majumder" },
         { "key": "Location", "value": "Kolkata, India" },
         { "key": "Created", "value": "06/08/2007" },
-        { "key": "Uptime", "value": "19 Years" },
+        { "key": "Uptime", "value": "{{uptime}}" },
       ]
     },
     {
