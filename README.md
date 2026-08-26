@@ -24,5 +24,7 @@ imajumder@dev   ---------------------------------------------------------------
 - REPOS: 13                          | STARS:
 - COMMITS:                           | FOLLOWERS: 4
 - LINES OF CODE ON GITHUB:
-$${\color{red}RED}$$       
 ```
+$$\color{red}{This\ space\ is\ red}$$
+$$\color{lightgreen}{This\ is\ green}$$
+
