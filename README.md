@@ -1,1 +1,1 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=imajumder)
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=imajumder&config=https%3A%2F%2Fraw.githubusercontent.com%2Fimajumder%2Fimajumder%2Fmain%2Fconfig.json)
