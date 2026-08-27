@@ -1,45 +1,44 @@
 {
   "sections": [
     {
-      "title": "imajumder@dev",
+      "title": "{{username}}@github",
       "fields": [
-        { "key": "Name", "value": "Ishan Majumder" },
-        { "key": "Location", "value": "Kolkata, India" },
-        { "key": "Created", "value": "06/08/2007" },
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Company", "value": "KIIT University"}
+        { "key": "Company", "value": "{{company}}" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages.Computer", "value": "Java, Python, JavaScript, TypeScript, C++" },
-        { "key": "Languages.Computer", "value": "English, Hindi, Bengali, German" },
-        { "key": "Frameworks", "value": "NodeJS, ReactJS, VueJS, ExpressJS" },
-        { "key": "Databases", "value": "MYSQL, MongoDB, AWS" },
-        { "key": "IDE", "value": "WebStorm, VSCode" }
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "IDE", "value": "Cursor, VSCode, Neovim" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "AI/ML, DailyEfficiency, Chatbots" },
-        { "key": "Hobbies.Hardware", "value": "ESP/Arduino Systems, Custom PCBS" }
+        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
+        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
       ]
     },
     {
-      "title": "contact@information",
+      "title": "- Contact",
       "fields": [
-        { "key": "Email.Personal", "value": "ishanmajumder666@gmail.com" },
-        { "key": "Email.Work", "value": "ishamajumder.1414@gmail.com" },
-        { "key": "Website", "value": "https://imajumder.com" }
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "Website", "value": "https://github.com/{{username}}" },
+        { "key": "Twitter", "value": "{{twitter}}" }
       ]
     }
   ],
   "stats": {
-    "title": "github@statistics",
+    "title": "- GitHub Stats",
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
-      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } }
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
+      "loc"
     ]
   }
 }
