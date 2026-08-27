@@ -1,6 +1,6 @@
 ![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=imajumder&config=https%3A%2F%2Fraw.githubusercontent.com%2Fimajumder%2Fimajumder%2Fmain%2Fneofetch.json)
 
-<h1 align="center">Material Bread</h1>
+<div align="center">
 
 # **Happy to see you here, I'm Ishan**
 ### A software engineer with a passion for automation
@@ -26,6 +26,7 @@ Always open to interesting projects, new technologies, and opportunities to lear
 ### **Find me at**
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/imajumder) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://www.instagram.com/idforishan/)  [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](ishanmajumder666@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-gray?logo=leetcode)](https://leetcode.com/u/ishan-majumder/) [![Youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dominator1135)
 
+</div>
 
 
 
