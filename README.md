@@ -1,11 +1,11 @@
 ![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=imajumder&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fimajumder%2Fimajumder%2Fmain%2Fneofetch.json)
 
-```
+```html
 <p align="center">
-  <a href="https://github.com/jeantimex/neofetch-profile">
+  <a href="https://github.com/imajumder/imajumder">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=[YOUR_USERNAME]&theme=github-dark&config=[YOUR_CONFIG_JSON_FILE_URL]">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=[YOUR_USERNAME]&theme=github-light&config=[YOUR_CONFIG_JSON_FILE_URL]">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=imajumder&theme=github-dark&config=neofetch.json">
+      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=imajumder&theme=github-light&config=neofetch.json">
     </picture>
   </a>
 </p>
