@@ -7,6 +7,7 @@
         { "key": "Location", "value": "Kolkata, India" },
         { "key": "Created", "value": "06/08/2007" },
         { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Company", "value": "KIIT University"}
       ]
     },
     {
@@ -29,7 +30,7 @@
       "fields": [
         { "key": "Email.Personal", "value": "ishanmajumder666@gmail.com" },
         { "key": "Email.Work", "value": "ishamajumder.1414@gmail.com" },
-        { "key": "Website", "value": "https://imajumder.com" },
+        { "key": "Website", "value": "https://imajumder.com" }
       ]
     }
   ],
@@ -38,7 +39,7 @@
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
-      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } }
     ]
   }
 }
