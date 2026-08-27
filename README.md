@@ -1,15 +1,5 @@
 ![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=imajumder&config=https%3A%2F%2Fraw.githubusercontent.com%2Fimajumder%2Fimajumder%2Fmain%2Fneofetch.json)
 
-```html
-<p align="center">
-  <a href="https://github.com/imajumder/imajumder">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=imajumder&theme=github-dark&config=neofetch.json">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=imajumder&theme=github-light&config=neofetch.json">
-    </picture>
-  </a>
-</p>
-```
 
 # **Happy to see you here, I'm Ishan**
 ### A software engineer with a passion for automation
