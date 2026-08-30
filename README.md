@@ -7,11 +7,15 @@
 
 Hey! I’m a student and developer who enjoys turning ideas into practical projects and exploring how technology can automate everyday problems.
 
+<br>
+
 ### **My Workflow**
 
 ![HP](https://img.shields.io/badge/HP-gray?logo=hp)  ![Webstorm](https://img.shields.io/badge/Webstorm-gray?logo=webstorm)  ![CLion](https://img.shields.io/badge/Clion-gray?logo=clion)  ![Spotify](https://img.shields.io/badge/Spotify-gray?logo=spotify)  ![Chrome](https://img.shields.io/badge/Chrome-gray?logo=googlechrome)  ![Claude](https://img.shields.io/badge/Claude-gray?logo=claude)  ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-gray?logo=stackoverflow)
 
 Beyond software, I have an avid interest in microcontrollers and DIY electronics. I enjoy experimenting with boards like Arduino and ESP32, connecting sensors and modules, and figuring out how software and hardware can work together to create something useful.
+
+<br>
 
 ### **Tech Stack**
 
@@ -23,6 +27,8 @@ I’m naturally curious and love exploring new technologies, tools, and concepts
 
 Always open to interesting projects, new technologies, and opportunities to learn something new.
 
+<hr>
+
 <div align="center">
 
 <img
@@ -31,8 +37,6 @@ Always open to interesting projects, new technologies, and opportunities to lear
 />
 
 </div>
-
-<br>
 
 <hr>    
 
