@@ -1,5 +1,13 @@
 ![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=imajumder&config=https%3A%2F%2Fraw.githubusercontent.com%2Fimajumder%2Fimajumder%2Fmain%2Fneofetch.json)
 
+<hr>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=About%20Me&height=100&animation=fadeIn&fontColor=ffffff&fontSize=32" width="100%" 
+/>
+
+<hr>
+
+
 <div align="center">
 
 # **Happy to see you here, I'm Ishan Majumder 💻**
