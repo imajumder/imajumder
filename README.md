@@ -38,7 +38,7 @@ Always open to interesting projects, new technologies, and opportunities to lear
 
 <hr>
 
-<div align="center">
+<div>
 
 <img
   src="https://github-stats-extended.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10"
