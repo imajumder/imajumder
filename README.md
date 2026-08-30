@@ -54,6 +54,8 @@ Always open to interesting projects, new technologies, and opportunities to lear
 
 </div>
 
+<hr>
+
 ```mermaid
 flowchart TD
     A["🌐 Web Development"]:::root
@@ -100,7 +102,7 @@ flowchart TD
     classDef sub fill:#2c2c34,stroke:#aaa,color:#fff;
 ```
 
-<hr>    
+<br>  
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="155" />
