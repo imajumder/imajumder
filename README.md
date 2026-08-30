@@ -65,9 +65,9 @@ Always open to interesting projects, new technologies, and opportunities to lear
 
 <hr>
 
-<div align="center" style="padding:5px;">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=mongodb&theme=dark" width="40%"/> <img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=ayur-ip-guide&theme=dark" width="40%"/> 
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=discord-dashboard-ui&theme=dark" width="40%"/> <img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=AutoMod&theme=dark" width="40%"/> 
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=mongodb&theme=dark" width="40%" style="padding:5px"/> <img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=ayur-ip-guide&theme=dark" width="40%" style="padding:5px"/> 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=discord-dashboard-ui&theme=dark" width="40%" style="padding:5px"/> <img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=AutoMod&theme=dark" width="40%" style="padding:5px"/> 
 </div>
 
 ### **Find me at**
