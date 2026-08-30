@@ -41,12 +41,12 @@ Always open to interesting projects, new technologies, and opportunities to lear
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&border_radius=10"
+  src="https://github-readme-stats.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10"
   height="180"
 />
 
 <img
-  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&border_radius=10"
+  src="https://streak-stats.demolab.com?user=imajumder&theme=dark&hide_border=true&border_radius=10"
   height="180"
 />
 
@@ -57,7 +57,7 @@ Always open to interesting projects, new technologies, and opportunities to lear
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&langs_count=6&theme=dark&hide_border=true&border_radius=10"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajumder&layout=donut&langs_count=6&theme=dark&hide_border=true&border_radius=10"
   height="250"
 />
 
