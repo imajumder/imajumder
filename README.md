@@ -66,8 +66,8 @@ Always open to interesting projects, new technologies, and opportunities to lear
 <hr>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imajumder&repo=mongodb"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=imajumder&repo=ayur-ip-guide"/> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imajumder&repo=discord-dashboard-ui"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=imajumder&repo=AutoMod"/> 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=mongodb"/> <img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=ayur-ip-guide"/> 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=discord-dashboard-ui"/> <img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=AutoMod"/> 
 </div>
 
 ### **Find me at**
