@@ -54,6 +54,52 @@ Always open to interesting projects, new technologies, and opportunities to lear
 
 </div>
 
+```mermaid
+flowchart TD
+    A["🌐 Web Development"]:::root
+
+    A --> B["💻 Front End"]:::frontend
+    A --> C["☁️ Back End"]:::backend
+
+    B --> B1["🗣️ Language"]:::sub
+    B --> B2["⚙️ Framework"]:::sub
+    B --> B3["📚 Libraries"]:::sub
+
+    B1 --> B1a["HTML"]
+    B1 --> B1b["CSS"]
+    B1 --> B1c["JavaScript"]
+    B1 --> B1d["TypeScript"]
+
+    B2 --> B2a["React"]
+    B2 --> B2b["Next.js"]
+    B2 --> B2c["Vue"]
+
+    B3 --> B3a["Tailwind CSS"]
+    B3 --> B3b["shadcn/ui"]
+    B3 --> B3c["Bootstrap"]
+
+    C --> C1["🗣️ Language"]:::sub
+    C --> C2["🗄️ Database"]:::sub
+    C --> C3["🔌 API"]:::sub
+
+    C1 --> C1a["Node.js"]
+    C1 --> C1b["Python"]
+    C1 --> C1c["PHP"]
+    C1 --> C1d["Java"]
+
+    C2 --> C2a["MySQL"]
+    C2 --> C2b["MongoDB"]
+    C2 --> C2c["PostgreSQL"]
+
+    C3 --> C3a["REST"]
+    C3 --> C3b["GraphQL"]
+
+    classDef root fill:#9b30ff,stroke:#333,color:#fff,font-weight:bold;
+    classDef frontend fill:#ff6b6b,stroke:#333,color:#fff;
+    classDef backend fill:#4ecdc4,stroke:#333,color:#fff;
+    classDef sub fill:#2c2c34,stroke:#aaa,color:#fff;
+```
+
 <hr>    
 
 <p align="center">
