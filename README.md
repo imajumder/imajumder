@@ -38,7 +38,7 @@ Always open to interesting projects, new technologies, and opportunities to lear
 
 <hr>
 
-<div>
+<div display="flex">
 
 <img
   src="https://github-stats-extended.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10"
@@ -52,17 +52,12 @@ Always open to interesting projects, new technologies, and opportunities to lear
   width="33%"
 />
 
-</div>
-
-<br>
-
-<div align="center">
-
 <img
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&hide_border=true&border_radius=10"
   height="180"
   width="33%"
 />
+
 
 </div>
 
