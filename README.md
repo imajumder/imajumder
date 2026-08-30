@@ -52,10 +52,12 @@ Always open to interesting projects, new technologies, and opportunities to lear
 
 <hr>
 
-<img src="https://camo.githubusercontent.com/2ee1a4ed6e721457f9c46fbf02876831ad4657d5f94c4f49bd97893697c4b4ac/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d32342c32352c36266865696768743d37302673656374696f6e3d68656164657226746578743d466561747572656425323050726f6a6563747326666f6e7453697a653d323826666f6e74436f6c6f723d66666626666f6e74416c69676e593d363526616e696d6174696f6e3d66616465496e" width=100%" 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Featured%20Projects" width="100%" 
 />
 
 <hr>
+
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12&text=Tech%20Stack&fontColor=ffffff&fontSize=30&height=100)
 
 ### **Find me at**
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/imajumder) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://www.instagram.com/idforishan/)  [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](ishanmajumder666@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-gray?logo=leetcode)](https://leetcode.com/u/ishan-majumder/) [![Youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dominator1135)
