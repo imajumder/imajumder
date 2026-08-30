@@ -74,12 +74,13 @@ Always open to interesting projects, new technologies, and opportunities to lear
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=discord-dashboard-ui&theme=dark"/> <img src="https://github-stats-extended.vercel.app/api/pin/?username=imajumder&repo=AutoMod&theme=dark""/> 
 </div>
 
-### **Find me at**
+### **Lets build something together** 
 
 <hr>
 <div>
 
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/imajumder) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://www.instagram.com/idforishan/)  [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](ishanmajumder666@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-gray?logo=leetcode)](https://leetcode.com/u/ishan-majumder/) [![Youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dominator1135)
+![Profile Views](https://komarev.com/ghpvc/?username=imajumder&color=1DB954&style=flat-square&label=Profile+Views)
 
 </div>
 
