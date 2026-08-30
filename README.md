@@ -82,6 +82,8 @@ Always open to interesting projects, new technologies, and opportunities to lear
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/imajumder) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://www.instagram.com/idforishan/)  [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](ishanmajumder666@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-gray?logo=leetcode)](https://leetcode.com/u/ishan-majumder/) [![Youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dominator1135)
 ![Profile Views](https://komarev.com/ghpvc/?username=imajumder&color=1DB954&style=flat-square&label=Profile+Views)
 
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <hr>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Thanks%20For%20Visiting&height=100&animation=fadeIn&fontColor=ffffff&fontSize=32" width="100%" 
