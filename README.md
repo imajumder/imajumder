@@ -52,12 +52,11 @@ Always open to interesting projects, new technologies, and opportunities to lear
 
 <hr>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Featured%20Projects" width="100%" 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Featured%20Projects&height=100&animation=fadeIn&fontColor=ffffff&fontSize=32" width="100%" 
 />
 
 <hr>
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12&text=Tech%20Stack&fontColor=ffffff&fontSize=30&height=100)
 
 ### **Find me at**
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/imajumder) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://www.instagram.com/idforishan/)  [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](ishanmajumder666@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-gray?logo=leetcode)](https://leetcode.com/u/ishan-majumder/) [![Youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dominator1135)
