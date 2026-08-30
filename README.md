@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# **Happy to see you here, I'm Ishan**
+# **Happy to see you here, I'm Ishan Majumder 💻**
 ### A software engineer with a passion for automation
 
 Hey! I’m a student and developer who enjoys turning ideas into practical projects and exploring how technology can automate everyday problems.
@@ -22,6 +22,46 @@ I’m particularly interested in automation, web development, and hardware-based
 I’m naturally curious and love exploring new technologies, tools, and concepts—even outside my usual stack. Whether it’s building a web application, automating a repetitive task, or putting together a small electronics project, I enjoy learning by actually building things.
 
 Always open to interesting projects, new technologies, and opportunities to learn something new.
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=GitHub%20Stats&fontSize=32&fontColor=ffffff&animation=fadeIn"
+  width="100%"
+/>
+
+</div>
+
+<br>
+
+<h2>📊 GitHub Stats</h2>
+
+<hr>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&border_radius=10"
+  height="180"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&border_radius=10"
+  height="180"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&langs_count=6&theme=dark&hide_border=true&border_radius=10"
+  height="250"
+/>
+
+</div>
 
 ### **Find me at**
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/imajumder) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://www.instagram.com/idforishan/)  [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](ishanmajumder666@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-gray?logo=leetcode)](https://leetcode.com/u/ishan-majumder/) [![Youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dominator1135)
