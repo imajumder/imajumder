@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## **Happy to see you here, I'm Ishan Majumder 💻**
+# **Happy to see you here, I'm Ishan Majumder 💻**
 ### A software engineer with a passion for automation
 
 Hey! I’m a student and developer who enjoys turning ideas into practical projects and exploring how technology can automate everyday problems.
