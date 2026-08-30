@@ -38,25 +38,19 @@ Always open to interesting projects, new technologies, and opportunities to lear
 
 <hr>
 
-<div style="display: flex; gap: 10px; justify-content: space-between;">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10"
-  height="180"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=imajumder&theme=dark&hide_border=true&border_radius=10"
-  height="180"
-/>
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&hide_border=true&border_radius=10"
-  height="180"
-/>
-
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10" />
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&thehme=dark&hide_border=true&border_radius=10" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=imajumder&theme=dark&hide_border=true&border_radius=10" />
+    </td>
+  </tr>
+</table>
 
 ### **Find me at**
 [![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/imajumder) [![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram)](https://www.instagram.com/idforishan/)  [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](ishanmajumder666@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-gray?logo=leetcode)](https://leetcode.com/u/ishan-majumder/) [![Youtube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dominator1135)
