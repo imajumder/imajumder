@@ -25,7 +25,7 @@ Hey! I’m a student and developer who enjoys turning ideas into practical proje
 
 Beyond software, I have an avid interest in microcontrollers and DIY electronics. I enjoy experimenting with boards like Arduino and ESP32, connecting sensors and modules, and figuring out how software and hardware can work together to create something useful.
 
-<img src="https://githubspotifybanner.vercel.app/" />
+![Spotify Tracker](https://githubspotifybanner.vercel.app/?theme=glass&adaptive=true)
 
 <br>
 
