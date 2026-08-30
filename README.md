@@ -27,7 +27,7 @@ Beyond software, I have an avid interest in microcontrollers and DIY electronics
 
 <br>
 
-![Spotify Tracker](https://githubspotifybanner.vercel.app/?theme=glass&adaptive=true&recently_playing=false)
+![Spotify Tracker](https://githubspotifybanner.vercel.app/?theme=glass&adaptive=true&recently_playing=true)
 
 <br>
 
