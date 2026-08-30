@@ -34,20 +34,18 @@ Always open to interesting projects, new technologies, and opportunities to lear
 
 <br>
 
-<h2>📊 GitHub Stats</h2>
-
 <hr>
 
 <table>
   <tr>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10" />
+      <img src="https://github-stats-extended.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="250px"/>
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&thehme=dark&hide_border=true&border_radius=10" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&hide_border=true&border_radius=10" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=imajumder&theme=dark&hide_border=true&border_radius=10" />
+      <img src="https://streak-stats.demolab.com?user=imajumder&theme=dark&hide_border=true&border_radius=10" height="250px"/>
     </td>
   </tr>
 </table>
