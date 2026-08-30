@@ -40,6 +40,11 @@ Always open to interesting projects, new technologies, and opportunities to lear
 <img src="https://github-stats-extended.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="250px"/>      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&hide_border=true&border_radius=10" />       <img src="https://streak-stats.demolab.com?user=imajumder&theme=dark&hide_border=true&border_radius=10" height="250px"/>
     
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=imajumder&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="250px" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&hide_border=true&border_radius=10" height="195" />
+  <img src="https://streak-stats.demolab.com?user=imajumder&theme=dark&hide_border=true&border_radius=10" height="195" />
+</p>
 
   
 
